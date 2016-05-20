@@ -1,6 +1,24 @@
 = Notas de aula da turma iniciada em 13 de maio de 2016
 :icons: font
+
+// http://asciidoctor.org/docs/user-manual/#navigating-between-source-files
+ifdef::env-github,env-browser[:outfilesuffix: .adoc]
+
+// O atributo include-uris é ajustado na chamada ao script gerar-html
+ifdef::include-uris[]
 include::uris.conf[]
+endif::[]
+
+// O GitHub (https://github.com/asciidoctor/asciidoctor/issues/1088) não sabe lidar, por enquanto, com a diretiva "include". A diretiva env-github é útil para verificar se um doc está no GitHub: http://mrhaki.blogspot.com.br/2014/08/awesome-asciidoc-conditional-directive.html
+// O plugin *Asciidoctor.js Live Preview* também parece não saber (mesmo havendo, no changelog (https://github.com/asciidoctor/asciidoctor-chrome-extension#changelog), a informação de que há esse suporte)
+// O jeito, por enquanto, é incluir o conteúdo do arquivo uris.conf dentro da diretiva abaixo (como já está) se não quisermos ficar gerando a versão HTML o tempo inteiro. Mas, isso não é prático: pra cada URI adicionada, que precisar ser compartilhada no arquivo uris.conf, o conteúdo dos arquivos que fazem seu uso também precisará ser alterado! (paia...)
+ifndef::include-uris[]
+:uri-ppca: http://www.ppca.unb.br/
+:uri-github: http://github.com
+:uri-paulojeronimo: {uri-github}/paulojeronimo
+:uri-alegomes: {uri-github}/alegomes
+:uri-asciidoctor-js-live-preview: https://chrome.google.com/webstore/detail/asciidoctorjs-live-previe/iaalpfgpbocpdfblpnhhgllgbdbchmia
+endif::[]
 
 Este repositório tem por objetivo compartilhar <<notas-de-aula,notas de aula>> escritas por <<alunos>> da disciplina "Construção de Software", do {uri-ppca}[Programa de Pós-Graduação em Computação Aplicada (PPCA)].
 
@@ -10,8 +28,8 @@ O professor dessa turma é o {uri-alegomes}[Alexandre Gomes].
 
 Os arquivos deste repositório, incluindo este README, estão no formato AsciiDoc. Se você deseja saber mais sobre esse formato, inicie sua leitura pelo documento http://asciidoctor.org/docs/what-is-asciidoc/["What is AsciiDoc? Why do we need it?"]. Algumas dicas rápidas, para documentos no formato AsciiDoc:
 
-. Edite o documento utilizando o editor que mais lhe agrada. Mas, __fuja de editores pesados!__
-. Visualize um documento AsciiDoc no Google Chrome instalando a extensão {uri-asciidoctor-js-live-preview}[Asciidoctor.js Live Preview].
+. Edite o documento utilizando o editor que mais lhe agrada. Mas, __fuja de editores pesados (qualquer um que termine com *Office*)!__
+. Visualize documentos AsciiDoc diretamente no Google Chrome fazendo a instalação da extensão {uri-asciidoctor-js-live-preview}[Asciidoctor.js Live Preview].
 
 
 NOTE: você pode gerar a versão HTML dos documentos deste repositório chamando o script (Bash) link:gerar-html[gerar-html]
@@ -26,5 +44,5 @@ A lista de alunos participantes do turma, em ordem alfabética, é apresentada a
 [[notas-de-aula]]
 == Notas de aula
 
+. link:aula-02.20160520{outfilesuffix}[Aula 02 (20/05/2016)]
 . Aula 01 (13/05/2016)
-. link:aula-02.20160520.adoc[Aula 02 (20/05/2016)]

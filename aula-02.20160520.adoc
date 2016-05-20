@@ -1,7 +1,18 @@
 = Notas da aula 02 (em 20 de maio de 2016)
 :toc:
 :toc-title: Momentos (últimos primeiro)
+
+ifdef::include-uris[]
 include::uris.conf[]
+endif::[]
+
+ifndef::include-uris[]
+:uri-ppca: http://www.ppca.unb.br/
+:uri-github: http://github.com
+:uri-paulojeronimo: {uri-github}/paulojeronimo
+:uri-alegomes: {uri-github}/alegomes
+:uri-asciidoctor-js-live-preview: https://chrome.google.com/webstore/detail/asciidoctorjs-live-previe/iaalpfgpbocpdfblpnhhgllgbdbchmia
+endif::[]
 
 == Contribuições a estas notas
 
@@ -56,7 +67,7 @@ include::uris.conf[]
 * Qualidade:
 ** Pergunta do Alê: quem já fez o mesmo software duas vezes?
 ** Tem sido utilizada para averiguar se um processo está adequado
-** Repetitibilidade e controle fazem mais sentido pra uma indústria mas não para um processo de software
+** Repetibilidade e controle fazem mais sentido pra uma indústria mas não para um processo de software
 * Duas taças de vinho caindo da mesma altura formam a mesma disposição de cacos no chão?
 ** Não ... infinitas variáveis
 * Pensamento: processos, por mais complexos que sejam, nunca atendem completamente.
@@ -83,6 +94,6 @@ include::uris.conf[]
 * Pensar em Blockchain como um banco de dados
 * Blockchain deve guardar dados públicos, a menos que ele seja utilizado apenas internamente, dentro de uma empresa
 
-=== Alunos apresetaram suas idéias
+=== Alunos apresentaram suas idéias
 
 * Cada aluno comentou sobre suas idéias de uso do blockchain
