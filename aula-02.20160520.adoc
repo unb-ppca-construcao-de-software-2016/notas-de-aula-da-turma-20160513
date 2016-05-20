@@ -1,0 +1,88 @@
+= Notas da aula 02 (em 20 de maio de 2016)
+:toc:
+:toc-title: Momentos (últimos primeiro)
+include::uris.conf[]
+
+== Contribuições a estas notas
+
+* link:{uri-paulojeronimo}[Paulo Jerônimo]
+
+== Segunda parte
+
+=== Alê finalizou sua fala
+
+* Novamente, comentou sobre o protótipo que precisa ser entregue.
+* Disse que o que estamos fazendo é uma "revisão de premissas".
+* Ágil não deve ser associado com uma metodologia.
+** Precisa estar associado a uma essência.
+
+=== Alê continuou a apresentação de seus slides
+
+* Comunicação -> slide onde acabou a aula
+** Juntar todo mundo pra resolver um problema
+** O problema é nosso!
+* Testes automatizados
+** Comparação com a escalada em montanhas ;)
+** Comparação com a pia suja: sujou/lavou ;)
+* Startups
+** Nasce uma idéia e nego vai atrás de dinheiro pra viabilizá-la
+** Problema: nem todo mundo está preparado pra receber grana
+** Muito trabalho para que cada passo seja dado com segurança
+* Aprendizado
+** Processo ágil:
+*** aprende-se (80%)/valida-se (80%) -> constói-se (20%)
+** Cultura ágil: aprendizado diluído ao longo do desenvolvimento
+*** aprende-se, constrói-se, aprende-se, constrói-se, ...
+*** Distância (tempo) para aprendizado do que precisa ou não ser feito é muito menor
+** Cultura tradicional: análise de requisitos
+*** aprende-se (20%) ... constrói-se (80%)
+* Quanto mais tempo você gasta fazendo um cronograma, mais difícil será de jogá-lo fora
+** Post-its podem ser rasgados e trocados a qualquer momento...
+* Menos é Mais
+* Simplicidade
+** "If you can't explain it simply, you don't understand it well enough." Albert Einstein
+** 20% do esforço para ter 80% do resultado.
+
+* Lançamento
+** Empresas como o Google e o Facebook pararam de controlar versão
+... Beta forever...
+
+== Coffee-break
+
+== Primeira parte
+
+=== Alê apresentou slides sobre o "Pensamento Ágil"
+
+* Qualidade:
+** Pergunta do Alê: quem já fez o mesmo software duas vezes?
+** Tem sido utilizada para averiguar se um processo está adequado
+** Repetitibilidade e controle fazem mais sentido pra uma indústria mas não para um processo de software
+* Duas taças de vinho caindo da mesma altura formam a mesma disposição de cacos no chão?
+** Não ... infinitas variáveis
+* Pensamento: processos, por mais complexos que sejam, nunca atendem completamente.
+** Por exemplo, no trânsito ninguém tem um processo mas, ele funciona: baseando-se  em regras básicas.
+* Poucas regras: sistemas complexos.
+** São sistemas que não dá pra mapear todas as variávies que ocorrem dentro dele.
+* O mundo é complexo.
+* O mundo é caótico: pequenas variações no sistema podem causar consequências estrondosas.
+* Qualidade de software = ROI (retorno de investimento)
+* Chaos Manifesto 2013 (Think Big, Act Small)
+** "Our analysis suggests that 20% of features are used often and 50% of features are hardly ever or never used."
+* fazer *mais* vs fazer *certo*
+
+=== Alê falou sobre blockchain e sobre o trabalho
+
+* Restrições para o projeto (so slide):
+** Utilizar JavaScript, e só.
+** Código no GitHub.
+** Tem que funcionar
+* Usar o Slack
+* Para a próxima aula (03/06) - apresentar um protótipo do trabalho
+** Dia 27/05 não haverá aula
+** Pesquisar sobre como prototipar (necessário para a próxima entrega)
+* Pensar em Blockchain como um banco de dados
+* Blockchain deve guardar dados públicos, a menos que ele seja utilizado apenas internamente, dentro de uma empresa
+
+=== Alunos apresetaram suas idéias
+
+* Cada aluno comentou sobre suas idéias de uso do blockchain

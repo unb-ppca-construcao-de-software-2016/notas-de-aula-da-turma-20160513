@@ -1,0 +1,30 @@
+= Notas de aula da turma iniciada em 13 de maio de 2016
+:icons: font
+include::uris.conf[]
+
+Este repositório tem por objetivo compartilhar <<notas-de-aula,notas de aula>> escritas por <<alunos>> da disciplina "Construção de Software", do {uri-ppca}[Programa de Pós-Graduação em Computação Aplicada (PPCA)].
+
+Alunos, no contexto deste repositório, são os que compõem a turma iniciada em 13 de maio de 2016.
+
+O professor dessa turma é o {uri-alegomes}[Alexandre Gomes].
+
+Os arquivos deste repositório, incluindo este README, estão no formato AsciiDoc. Se você deseja saber mais sobre esse formato, inicie sua leitura pelo documento http://asciidoctor.org/docs/what-is-asciidoc/["What is AsciiDoc? Why do we need it?"]. Algumas dicas rápidas, para documentos no formato AsciiDoc:
+
+. Edite o documento utilizando o editor que mais lhe agrada. Mas, __fuja de editores pesados!__
+. Visualize um documento AsciiDoc no Google Chrome instalando a extensão {uri-asciidoctor-js-live-preview}[Asciidoctor.js Live Preview].
+
+
+NOTE: você pode gerar a versão HTML dos documentos deste repositório chamando o script (Bash) link:gerar-html[gerar-html]
+
+[[alunos]]
+== Alunos
+
+A lista de alunos participantes do turma, em ordem alfabética, é apresentada abaixo. Se você é aluno, e teu nome não está nessa lista, faça um https://help.github.com/articles/fork-a-repo/[fork] deste repositório, modifique este arquivo e crie um https://help.github.com/articles/creating-a-pull-request/[PR] com tua mudança.
+
+. {uri-paulojeronimo}[Paulo Jerônimo]
+
+[[notas-de-aula]]
+== Notas de aula
+
+. Aula 01 (13/05/2016)
+. link:aula-02.20160520.adoc[Aula 02 (20/05/2016)]
