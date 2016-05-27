@@ -18,9 +18,10 @@ ifndef::include-uris[]
 :uri-paulojeronimo: {uri-github}/paulojeronimo
 :uri-alegomes: {uri-github}/alegomes
 :uri-asciidoctor-js-live-preview: https://chrome.google.com/webstore/detail/asciidoctorjs-live-previe/iaalpfgpbocpdfblpnhhgllgbdbchmia
+:uri-disciplina: http://aprender.ead.unb.br/course/view.php?id=1769
 endif::[]
 
-Este repositório tem por objetivo compartilhar <<notas-de-aula,notas de aula>> escritas por <<alunos>> da disciplina "Construção de Software", do {uri-ppca}[Programa de Pós-Graduação em Computação Aplicada (PPCA)].
+Este repositório tem por objetivo compartilhar <<notas-de-aula,notas de aula>> escritas por <<alunos>> da disciplina {uri-disciplina}["Construção de Software"], do {uri-ppca}[Programa de Pós-Graduação em Computação Aplicada (PPCA)].
 
 Alunos, no contexto deste repositório, são os que compõem a turma iniciada em 13 de maio de 2016.
 
