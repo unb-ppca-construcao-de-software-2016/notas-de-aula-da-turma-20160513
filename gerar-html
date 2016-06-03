@@ -1,3 +1,25 @@
 #!/bin/bash
+set +x
 
-asciidoctor -a include-uris *.adoc
+gerar() {
+    asciidoctor -a include-uris "$1"
+}
+
+gerar_ou_ignorar() {
+    local f=$1
+
+    if [ "`dirname "$f"`" != "." ]
+    then
+        if [ "`basename "$f"`" = "index.adoc" ]
+        then
+            gerar "$f"
+        fi
+    else
+        gerar "$f"
+    fi 
+}
+
+find . -type f -name '*.adoc' | while read f
+do
+    gerar_ou_ignorar "$f"
+done
