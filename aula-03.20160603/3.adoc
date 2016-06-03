@@ -27,3 +27,7 @@
 * Numa aplicação JavaScript, coexistirão "3 grupos de objetos".
 * Todo objeto é uma "coleção de propriedades com zero ou mais atributos".
 * ECMAScript define uma coleção de objetos "built-in".
+* Motores ECMAScript para browsers.
+* Programação baseada em protótipos.
+* *[red]#TODO: pesquisar que outras linguagens baseadas em protótipos existem#*.
+* O que é o Node.js ...

@@ -2,6 +2,9 @@
 :toc:
 :toc-title: Momentos (ordenados na ordem inversa de sua ocorrência)
 
+// http://asciidoctor.org/docs/user-manual/#navigating-between-source-files
+ifdef::env-github,env-browser[:outfilesuffix: .adoc]
+
 ifdef::include-uris[]
 include::../uris.conf[]
 endif::[]
@@ -16,6 +19,12 @@ ifndef::include-uris[]
 endif::[]
 
 :leveloffset: +1
+
+link:../aula-02.20160520{outfilesuffix}[Aula anterior]
+
+'''
+
+include::4.adoc[]
 
 include::3.adoc[]
 

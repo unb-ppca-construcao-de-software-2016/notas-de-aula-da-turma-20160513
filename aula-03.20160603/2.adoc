@@ -1,7 +1,7 @@
 = Comentários sobre o andamento do projeto
 
 * Está gostando da participação da galera no Slack.
-** Também sentiu que tem gente querendo "passar em cima dos corpos" referindo-se ao fato de que alguns não estão participando das discussões (eu, PJ, me incluo) e, talvez, possam estar esperando outros passar por problemas para ter sua vida facilitada(não é o meu caso).
+** Também sentiu que tem gente querendo "passar em cima dos corpos" referindo-se ao fato de que alguns não estão participando das discussões (eu, PJ, me incluo) e, talvez, possam estar esperando outros passar por problemas para ter sua vida facilitada (não é o meu caso).
 * Uma das restrições do projeto: JavaScript.
 * Dois de seus objetivos:
 ** Tirar da "Zona de Conforto".
