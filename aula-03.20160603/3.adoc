@@ -1,0 +1,29 @@
+= Aula sobre JavaScript
+
+* Costumeiramente utilizado em Browsers.
+** Requisições Ajax.
+* Migração para o lado servidor.
+* "Ranking" da linguagem no GitHub, StackOverflow.
+* A linguagem JavaScript nada tem a ver com a linguagem Java.
+* Especificação ECMAScript.
+** Padrão ISO/IEC 16262:2011.
+* Características:
+** Não trata de I/O
+** Não tem recursos para processamento paralelos: ex.threads
+** Precisa ser executado num __host environment__:
+* *[red]#TODO: pesquisar a coisa mais absurda já construída em JavaScript e postar no Slack#*
+* Características do JavaScript para um _web browser_, como um __host environment__:
+** Windows, pop-ups, dialog boxes, text areas, anchors, frames, history, cookies, I/O.
+* Características de um _web server_:
+** Requests, etc.
+* ECMAScript é uma linguagem de programação orientada a objetos. Características:
+** Tipos, Operadores, Comentários, Estruturas, etc.
+* Resumo de Tipos do JavaScript
+* É preciso "despir-se de preconceitos" para aprender JavaScript (ou outroa linguagem qualquer) ...
+* Resumo de Operadores do JavaScript
+* Resumo de Estruturas do JavaScript: if, for, etc.
+* ECMAScript é baseado em objetos...
+** Tudo no ECMAScript é um objeto.
+* Numa aplicação JavaScript, coexistirão "3 grupos de objetos".
+* Todo objeto é uma "coleção de propriedades com zero ou mais atributos".
+* ECMAScript define uma coleção de objetos "built-in".

@@ -1,0 +1,3 @@
+= Mudança no plano de aulas
+
+* Alê resolveu, diante da restrição imposta para o projeto utilizar apenas JavaScript, adiantar uma das aulas sobre esse assunto.

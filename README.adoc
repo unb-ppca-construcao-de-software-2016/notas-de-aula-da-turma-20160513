@@ -50,5 +50,6 @@ A lista de alunos participantes do turma, em ordem alfabética, é apresentada a
 [[notas-de-aula]]
 == Notas de aula
 
+. link:aula-03.20160603/index{outfilesuffix}[Aula 03 (03/06/2016)]
 . link:aula-02.20160520{outfilesuffix}[Aula 02 (20/05/2016)]
 . Aula 01 (13/05/2016)
