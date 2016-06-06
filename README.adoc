@@ -17,6 +17,7 @@ ifndef::include-uris[]
 :uri-github: http://github.com
 :uri-paulojeronimo: {uri-github}/paulojeronimo
 :uri-rodolfocruz: {uri-github}/rodolfocruzbsb
+:uri-igorsilcar: {uri-github}/igorsilcar
 :uri-alanmazuco: {uri-github}/alanMazuco
 :uri-alegomes: {uri-github}/alegomes
 :uri-asciidoctor-js-live-preview: https://chrome.google.com/webstore/detail/asciidoctorjs-live-previe/iaalpfgpbocpdfblpnhhgllgbdbchmia
@@ -45,6 +46,7 @@ A lista de alunos participantes do turma, em ordem alfabética, é apresentada a
 . {uri-alanmazuco}[Alan Mazuco]
 . {uri-paulojeronimo}[Paulo Jerônimo]
 . {uri-rodolfocruz}[Rodolfo Cruz]
+. {uri-igorsilcar}[Igor Carvalho]
 
 
 [[notas-de-aula]]
