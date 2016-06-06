@@ -15,6 +15,7 @@ endif::[]
 ifndef::include-uris[]
 :uri-ppca: http://www.ppca.unb.br/
 :uri-github: http://github.com
+:uri-fabioleal: {uri-github}/lealfb
 :uri-paulojeronimo: {uri-github}/paulojeronimo
 :uri-rodolfocruz: {uri-github}/rodolfocruzbsb
 :uri-alanmazuco: {uri-github}/alanMazuco
@@ -43,6 +44,7 @@ NOTE: você pode gerar a versão HTML dos documentos deste repositório chamando
 A lista de alunos participantes do turma, em ordem alfabética, é apresentada abaixo. Se você é aluno, e teu nome não está nessa lista, faça um https://help.github.com/articles/fork-a-repo/[fork] deste repositório, modifique este arquivo e crie um https://help.github.com/articles/creating-a-pull-request/[PR] com tua mudança.
 
 . {uri-alanmazuco}[Alan Mazuco]
+. {uri-fabioleal}[Fabio Leal]
 . {uri-paulojeronimo}[Paulo Jerônimo]
 . {uri-rodolfocruz}[Rodolfo Cruz]
 
