@@ -19,6 +19,7 @@ ifndef::include-uris[]
 :uri-rodolfocruz: {uri-github}/rodolfocruzbsb
 :uri-alanmazuco: {uri-github}/alanMazuco
 :uri-alegomes: {uri-github}/alegomes
+:uri-sigfredo: {uri-github}/sigfredo
 :uri-asciidoctor-js-live-preview: https://chrome.google.com/webstore/detail/asciidoctorjs-live-previe/iaalpfgpbocpdfblpnhhgllgbdbchmia
 :uri-disciplina: http://aprender.ead.unb.br/course/view.php?id=1769
 endif::[]
@@ -45,6 +46,7 @@ A lista de alunos participantes do turma, em ordem alfabética, é apresentada a
 . {uri-alanmazuco}[Alan Mazuco]
 . {uri-paulojeronimo}[Paulo Jerônimo]
 . {uri-rodolfocruz}[Rodolfo Cruz]
+. {uri-sigfredo}[Sigfredo Rocha]
 
 
 [[notas-de-aula]]
