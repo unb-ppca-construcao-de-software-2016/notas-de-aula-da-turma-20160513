@@ -1,0 +1,29 @@
+= Notas da aula 05 (em 17 de junho de 2016)
+:toc:
+:toc-title: Momentos (ordenados na ordem inversa de sua ocorrência)
+
+// http://asciidoctor.org/docs/user-manual/#navigating-between-source-files
+ifdef::env-github,env-browser[:outfilesuffix: .adoc]
+
+ifdef::include-uris[]
+include::../uris.conf[]
+endif::[]
+
+ifndef::include-uris[]
+:uri-ppca: http://www.ppca.unb.br/
+:uri-github: http://github.com
+:uri-paulojeronimo: {uri-github}/paulojeronimo
+:uri-alegomes: {uri-github}/alegomes
+:uri-asciidoctor-js-live-preview: https://chrome.google.com/webstore/detail/asciidoctorjs-live-previe/iaalpfgpbocpdfblpnhhgllgbdbchmia
+:uri-disciplina: http://aprender.ead.unb.br/course/view.php?id=1769
+endif::[]
+
+:leveloffset: +1
+
+link:../README{outfilesuffix}[README] | link:../aula-03.20160603/index{outfilesuffix}[Aula anterior]
+
+'''
+
+include::1.adoc[]
+
+:leveloffset: -1
