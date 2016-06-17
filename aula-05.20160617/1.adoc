@@ -1,3 +1,8 @@
 = Aprendendo a aprender
 
 * Pra tudo o que aprendemos da vida, perceber valor é mais importante que entender os detalhes.
+* MVP
+* Lean canvas
+** Links:
+*** https://leanstack.com/lean-canvas/
+*** https://canvanizer.com/new/lean-canvas

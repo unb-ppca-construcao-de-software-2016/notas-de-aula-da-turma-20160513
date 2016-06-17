@@ -1,0 +1,28 @@
+= Programação em JavaScript
+
+== Programação funcional
+
+Alguns exemplos (_executáveis no node_):
+
+* Exemplo 1:
+[source,javascript]
+----
+function f(x) { return function (y) { return x + y; }; }
+var a=f(5);
+var b=a(3);
+b
+----
+
+* Exemplo 2:
+[source,javascript]
+----
+function f(x) { return x+3; }
+function twice(func,x) { return func(func(x)); }
+twice(f,7);
+----
+
+* yahoo-javascript-module-pattern.js
+[source,javascript]
+----
+include::yahoo-javascript-module-pattern.js[]
+----
